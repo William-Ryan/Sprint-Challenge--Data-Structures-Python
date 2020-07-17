@@ -37,4 +37,4 @@ print (f"runtime: {end_time - start_time} seconds")
 # What's the best time you can accomplish?  There are no restrictions on techniques or data
 # structures, but you may not import any additional libraries that you did not write yourself.
 
-print("best time: 64 seconds")
+print("best time: 0.064 seconds")
